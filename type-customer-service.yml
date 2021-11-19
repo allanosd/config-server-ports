@@ -17,7 +17,7 @@ eureka:
 spring:
   data:
     mongodb:
-      #host: localhost
-      host: dbmongo
+      host: localhost
+      #host: dbmongo
       port: 27017
       database: dbprofile 
